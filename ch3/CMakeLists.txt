@@ -1,2 +1,5 @@
+add_executable(ch3-11 ch3-11.cpp)
+add_executable(ch3-10-2 ch3-10-2-dispatching-concepts.cpp)
+add_executable(ch3-10-1 ch3-10-1-concept-accumulate-syntactic.cpp)
 add_executable(ch3-07 ch3-07-derivative.cpp)
-add_executable(ch3-01 ch3-01-template_type_deduction.cpp)
+add_executable(ch3-01 ch3-01-template-type-deduction.cpp)
