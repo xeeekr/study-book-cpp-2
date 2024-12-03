@@ -39,6 +39,10 @@ Discovering Modern C++ 2nd / Peter Gottschling / Addison-Wesley / 20200827
   - 3.11 : 가변 인수 템플릿
 - Ch4 : 표준 라이브러리
   - 4.1 : 표준 템플릿 라이브러리(STL) 
+  - 4.2 : 수치
+  - 4.3 : 메타프로그래밍
+  - 4.4 : 유틸리티
+  - 4.5 : 시간
 
 ## 학습률
 - 2024-11-15 : DAY-01 : Ch01
@@ -48,3 +52,4 @@ Discovering Modern C++ 2nd / Peter Gottschling / Addison-Wesley / 20200827
 - 2024-11-25 : DAY-05 : Ch03-9
 - 2024-11-28 : DAY-06 : Ch03-11
 - 2024-11-29 : DAY-07 : Ch04-1
+- 2024-12-03 : DAY-08 : Ch04-5
